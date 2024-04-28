@@ -1,4 +1,4 @@
-# projects
-This repo is for all of the projects I do whilst following The Odin Project.
+# recipes
 
 Project 1: Recipes
+-To create a webpage about recipes, using links and lists.
