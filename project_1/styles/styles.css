@@ -1,6 +1,15 @@
-h1 {
+h1, h3 {
     text-align: center;
     font-size: 36px;
+}
+
+.unordered, .ordered {
+    text-align: center;
+}
+
+.unordered > ul, .ordered > ol {
+    display: inline-block;
+    margin: 0;
 }
 
 .links {
@@ -16,4 +25,10 @@ p {
 
 body {
     background-color: bisque;
+}
+
+.bowl, .lasagna, .macaroni{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
